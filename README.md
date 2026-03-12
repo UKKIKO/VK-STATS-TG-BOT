@@ -34,8 +34,8 @@ python -m venv venv
 venv\Scripts\activate
 - Для Linux/Mac:
 source venv/bin/activate
-
 pip install -r requirements.txt
+
 3. Настройка конфигурации
 В корне проекта находится файл .env.example. Сделайте его копию с именем .env и заполните реальные данные:
 cp .env.example .env
