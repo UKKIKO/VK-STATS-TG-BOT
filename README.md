@@ -30,9 +30,9 @@ git clone https://github.com/UKKIKO/VK-STATS-TG-BOT.gitcd VK-STATS-TG-BOT
 2. Установка зависимостей
 Убедитесь, что у вас установлен Python. Создайте виртуальное окружение и установите библиотеки:
 python -m venv venv
-# Для Windows:
+- Для Windows:
 venv\Scripts\activate
-# Для Linux/Mac:
+- Для Linux/Mac:
 source venv/bin/activate
 
 pip install -r requirements.txt
