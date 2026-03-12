@@ -70,7 +70,7 @@ streamlit run app.py
 | `/info @domain` | Показать подробную информацию о группе из базы. |
 
 📂 Структура проекта
-text'''
+'''text
 VK-STATS-TG-BOT/
 ├── Develop/               # Основная папка с кодом
 │   ├── Bot_Dev.py         # Логика Telegram-бота (хэндлеры).
