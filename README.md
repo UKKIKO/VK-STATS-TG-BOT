@@ -28,7 +28,7 @@ logging — ведение логов.
 
 # 📦 Установка и запуск
 1. Клонирование репозитория
-git clone https://github.com/UKKIKO/VK-STATS-TG-BOT.gitcd VK-STATS-TG-BOT
+git clone [https://github.com/UKKIKO/VK-STATS-TG-BOT.gitcd VK-STATS-TG-BOT](https://github.com/UKKIKO/VK-STATS-TG-BOT/tree/main)
 2. Установка зависимостей
 Убедитесь, что у вас установлен Python. Создайте виртуальное окружение и установите библиотеки:
 python -m venv venv
