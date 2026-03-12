@@ -16,8 +16,8 @@
 
 # 🛠 Tech Stack
 
-Язык: Python 3.9+
-Библиотеки:
+- Язык: Python 3.9+
+- Библиотеки:
 pyTelegramBotAPI (Telebot) — работа с Telegram Bot API.
 vk_api — работа с VK API.
 pandas — обработка и анализ данных.
