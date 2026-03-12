@@ -40,7 +40,6 @@ pip install -r requirements.txt
 
 В корне проекта находится файл .env.example. Сделайте его копию с именем .env и заполните реальные данные:
 cp .env.example .env
-
 Откройте .env и впишите свои токены:
 VK_ACCESS_TOKEN=ваш_токен_группы_ВК
 TG_BOT_TOKEN=токен_вашего_телеграм_бота
