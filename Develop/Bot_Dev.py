@@ -108,7 +108,6 @@ def main():
         first_name = response[0]["first_name"]
         logger.info(f"Успешное подключение к вк! Здравствуйте, {first_name} (ID: {user_id})")
         init_db()
-        bot.infinity_polling()
 
     except vk_api.exceptions.ApiError as e:
         logger.error(f"Ошибка API: {e}", exc_info=True)
