@@ -38,6 +38,3 @@ def main_loop():
         except Exception as e:
             logger.error(f"Ошибка в планировщике: {e}", exc_info=True)
             time.sleep(WARNING_TIME)
-
-if __name__ == "__main__":
-    main_loop()
