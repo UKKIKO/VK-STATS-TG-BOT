@@ -6,7 +6,7 @@ import sqlite3
 
 logger = logging.getLogger(__name__)
 
-st.title("VK-TG-STAT-BOT")
+st.title("VK-STATS-TG-BOT")
 
 @st.cache_data(ttl=300)
 def load_data():
