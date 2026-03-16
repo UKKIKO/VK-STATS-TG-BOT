@@ -1,0 +1,34 @@
+
+
+app = "vk-stats-tg-bot"
+primary_region = "sjc"
+
+[build]
+  [build.args]
+    PYTHON_VERSION = "3.9"
+
+[env]
+  PORT = "8080"
+  WEBHOOK_URL = "https://vk-tg-stats-bot.fly.dev"
+  TG_ACCESS_TOKEN = "8524795051:AAHkG6sPcJpbczQBeN6Y7SuaqSEQD33HAlA"
+  VK_ACCESS_TOKEN = "vk1.a.pVpwfdzcIYHkjHhmH3-_WGAzuMzznH28P6KPDUlsSl7rYC6ZijKLAfhEH1ldkVB6VsykxYdIf8DTeZL4eqHVNRC9faHSCzuDcJkPSvw4qQUuCPGNqDR-raVbDx7ptFX8bnUHq8U18fUb642nRv_7zk__AaqwgjPQ5kXULzm9vWbHThoQdUfY1BxLxQF7iyCLuO5yNo-KFEGZOrtIEmuikQ"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = false
+  min_machines_running = 1
+
+[[services]]
+  protocol = "tcp"
+  internal_port = 8080
+
+  [[services.ports]]
+    port = 80
+    handlers = ["http"]
+    force_https = true
+
+  [[services.ports]]
+    port = 443
+    handlers = ["tls", "http"]
+  force_https = true

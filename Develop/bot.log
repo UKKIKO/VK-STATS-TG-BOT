@@ -1,0 +1,1454 @@
+2026-02-24 16:20:28,644 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-02-24 16:20:28,649 - __main__ - INFO - База данных инициализирована!
+2026-02-24 16:20:40,853 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:40,853 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:40,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:40,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:40,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:40,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:40,855 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:40,856 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:40,856 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:40,856 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:40,856 - __main__ - INFO - 10 постов найдено!
+2026-02-24 16:20:40,925 - db_utils - INFO - Загружено 10 постов для группы uanimetyan
+2026-02-24 16:20:41,947 - __main__ - INFO - Запрос постов по группе uanimetyan выполнен успешно!
+2026-02-24 16:20:53,372 - __main__ - INFO - Пропускаю закреп...
+2026-02-24 16:20:53,373 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:53,373 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:53,373 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:53,373 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:53,373 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:53,373 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:53,373 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:53,373 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:53,373 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:53,374 - __main__ - INFO - Сбор данных успешен!
+2026-02-24 16:20:53,374 - __main__ - INFO - 10 постов найдено!
+2026-02-24 16:20:53,459 - db_utils - INFO - Загружено 10 постов для группы threetwooneletsjam
+2026-02-24 16:20:55,524 - __main__ - INFO - Запрос постов по группе threetwooneletsjam выполнен успешно!
+2026-02-24 16:21:34,099 - __main__ - INFO - Запрос информации по группе uanimetyan выполнен успешно!
+2026-02-24 16:21:58,689 - __main__ - WARNING - Запрос информации по группе threewooneletsjam отклонён, группа не в списке!
+2026-02-24 16:22:11,317 - __main__ - INFO - Запрос информации по группе threetwooneletsjam выполнен успешно!
+2026-02-24 16:22:20,889 - TeleBot - ERROR - Infinity polling: polling exited
+2026-02-24 16:22:20,889 - TeleBot - ERROR - Break infinity polling
+2026-02-24 20:31:37,994 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-02-24 20:31:37,997 - __main__ - INFO - База данных инициализирована!
+2026-02-24 20:31:52,786 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-02-24 20:31:52,788 - __main__ - INFO - База данных инициализирована!
+2026-02-24 20:31:59,098 - TeleBot - ERROR - Infinity polling: polling exited
+2026-02-24 20:31:59,098 - TeleBot - ERROR - Break infinity polling
+2026-02-25 19:11:15,296 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-02-25 19:11:15,302 - __main__ - INFO - База данных инициализирована!
+2026-02-25 19:11:50,025 - TeleBot - ERROR - Infinity polling exception: Error binding parameter 1: type 'list' is not supported
+2026-02-25 19:11:50,027 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 logger_level=logger_level, allowed_updates=allowed_updates, restart_on_change=False,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 *args, **kwargs)
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                            logger_level=logger_level, allowed_updates=allowed_updates)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 97, in run
+    task(*args, **kwargs)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 10379, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\Develop\Bot_Dev.py", line 290, in info_group
+    cursor.execute('''
+    ~~~~~~~~~~~~~~^^^^
+        SELECT * FROM watchlist WHERE domain = ?
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        ''', (domain,))
+        ^^^^^^^^^^^^^^^
+sqlite3.ProgrammingError: Error binding parameter 1: type 'list' is not supported
+
+2026-02-25 19:16:04,099 - TeleBot - ERROR - Infinity polling: polling exited
+2026-02-25 19:16:04,099 - TeleBot - ERROR - Break infinity polling
+2026-02-25 19:17:52,976 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-02-25 19:17:52,977 - __main__ - INFO - База данных инициализирована!
+2026-02-25 19:18:08,091 - __main__ - INFO - Запрос информации по группе baza_xi_tochka выполнен успешно!
+2026-02-25 19:18:22,901 - __main__ - INFO - Запрос информации по группе threetwooneletsjam выполнен успешно!
+2026-02-25 19:18:34,037 - __main__ - INFO - Запрос с категорией выполнен успешно!
+2026-02-25 19:19:34,848 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:19:34,848 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:19:34,848 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:19:34,849 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:19:34,849 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:19:34,849 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:19:34,849 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:19:34,849 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:19:34,849 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:19:34,849 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:19:34,849 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:19:34,853 - TeleBot - ERROR - Infinity polling exception: 'dict' object is not callable
+2026-02-25 19:19:34,855 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 logger_level=logger_level, allowed_updates=allowed_updates, restart_on_change=False,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 *args, **kwargs)
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                            logger_level=logger_level, allowed_updates=allowed_updates)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 97, in run
+    task(*args, **kwargs)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 10379, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\Develop\Bot_Dev.py", line 205, in complex_stats
+    er=round((post["likes"]+post["comments"]+post["reposts"])/post("members")*100, 2)
+                                                              ~~~~^^^^^^^^^^^
+TypeError: 'dict' object is not callable
+
+2026-02-25 19:22:30,984 - TeleBot - ERROR - Infinity polling: polling exited
+2026-02-25 19:22:30,984 - TeleBot - ERROR - Break infinity polling
+2026-02-25 19:23:08,136 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-02-25 19:23:08,140 - __main__ - INFO - База данных инициализирована!
+2026-02-25 19:23:20,467 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:23:20,467 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:23:20,467 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:23:20,467 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:23:20,467 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:23:20,467 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:23:20,467 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:23:20,468 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:23:20,468 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:23:20,468 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:23:20,468 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:23:24,424 - __main__ - INFO - Запрос постов по группе uanimetyan выполнен успешно!
+2026-02-25 19:23:24,425 - db_utils - ERROR - Произошла ошибка при записи в БД: table post_stats has no column named members
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\Develop\db_utils.py", line 17, in save_stat
+    cursor.execute('''
+    ~~~~~~~~~~~~~~^^^^
+        INSERT OR REPLACE INTO post_stats (domain, post_id, post_date, views, likes, comments, reposts, members)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            VALUES (?,?,?,?,?,?,?,?)''', (domain, post['id'], post['date'], post['views'],
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                    post['likes'], post['comments'],
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                    post['reposts'], post['members']))
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: table post_stats has no column named members
+2026-02-25 19:23:24,428 - __main__ - INFO - 10 постов для группы uanimetyan успешно загружено!
+2026-02-25 19:24:04,722 - TeleBot - ERROR - Infinity polling exception: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+2026-02-25 19:24:04,727 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\util\retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 logger_level=logger_level, allowed_updates=allowed_updates, restart_on_change=False,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 *args, **kwargs)
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                            logger_level=logger_level, allowed_updates=allowed_updates)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1234, in __threaded_polling
+    polling_thread.raise_exceptions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 115, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 97, in run
+    task(*args, **kwargs)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 688, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+                               allowed_updates=allowed_updates,
+                               timeout=timeout, long_polling_timeout=long_polling_timeout)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 660, in get_updates
+    json_updates = apihelper.get_updates(
+        self.token, offset=offset, limit=limit, timeout=timeout, allowed_updates=allowed_updates,
+        long_polling_timeout=long_polling_timeout)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    result = _get_req_session().request(
+        method, request_url, params=params, files=files,
+        timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+2026-02-25 19:24:27,533 - __main__ - INFO - Пропускаю закреп...
+2026-02-25 19:24:27,533 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:24:27,534 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:24:27,534 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:24:27,534 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:24:27,534 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:24:27,534 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:24:27,534 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:24:27,534 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:24:27,534 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:24:27,534 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:24:27,534 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:24:28,643 - __main__ - INFO - Запрос постов по группе threetwooneletsjam выполнен успешно!
+2026-02-25 19:24:28,644 - db_utils - ERROR - Произошла ошибка при записи в БД: table post_stats has no column named members
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\Develop\db_utils.py", line 17, in save_stat
+    cursor.execute('''
+    ~~~~~~~~~~~~~~^^^^
+        INSERT OR REPLACE INTO post_stats (domain, post_id, post_date, views, likes, comments, reposts, members)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            VALUES (?,?,?,?,?,?,?,?)''', (domain, post['id'], post['date'], post['views'],
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                    post['likes'], post['comments'],
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                    post['reposts'], post['members']))
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: table post_stats has no column named members
+2026-02-25 19:24:28,645 - __main__ - INFO - 10 постов для группы threetwooneletsjam успешно загружено!
+2026-02-25 19:30:41,245 - TeleBot - ERROR - Infinity polling: polling exited
+2026-02-25 19:30:41,245 - TeleBot - ERROR - Break infinity polling
+2026-02-25 19:32:08,232 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-02-25 19:32:08,233 - __main__ - INFO - База данных инициализирована!
+2026-02-25 19:32:26,945 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:26,945 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:26,945 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:26,945 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:26,945 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:26,946 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:26,946 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:26,946 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:26,946 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:26,946 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:26,946 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:32:28,027 - __main__ - INFO - Запрос постов по группе uanimetyan выполнен успешно!
+2026-02-25 19:32:28,100 - db_utils - INFO - Загружено 10 постов для группы uanimetyan
+2026-02-25 19:32:28,101 - __main__ - INFO - 10 постов для группы uanimetyan успешно загружено!
+2026-02-25 19:32:47,404 - __main__ - INFO - Пропускаю закреп...
+2026-02-25 19:32:47,404 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:47,404 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:47,404 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:47,405 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:47,405 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:47,405 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:47,405 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:47,405 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:47,405 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:47,405 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:32:47,405 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:32:49,064 - __main__ - INFO - Запрос постов по группе threetwooneletsjam выполнен успешно!
+2026-02-25 19:32:49,129 - db_utils - INFO - Загружено 10 постов для группы threetwooneletsjam
+2026-02-25 19:32:49,129 - __main__ - INFO - 10 постов для группы threetwooneletsjam успешно загружено!
+2026-02-25 19:33:16,623 - TeleBot - ERROR - Infinity polling: polling exited
+2026-02-25 19:33:16,624 - TeleBot - ERROR - Break infinity polling
+2026-02-25 19:33:40,264 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-02-25 19:33:40,270 - __main__ - INFO - База данных инициализирована!
+2026-02-25 19:33:59,673 - __main__ - INFO - Пропускаю закреп...
+2026-02-25 19:33:59,673 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:33:59,673 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:33:59,674 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:33:59,674 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:33:59,674 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:33:59,674 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:33:59,674 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:33:59,675 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:33:59,675 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:33:59,675 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:33:59,675 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:34:00,767 - __main__ - INFO - Запрос постов по группе baza_xi_tochka выполнен успешно!
+2026-02-25 19:34:00,838 - db_utils - INFO - Загружено 10 постов для группы baza_xi_tochka
+2026-02-25 19:34:00,838 - __main__ - INFO - 10 постов для группы baza_xi_tochka успешно загружено!
+2026-02-25 19:34:32,450 - __main__ - INFO - Пропускаю закреп...
+2026-02-25 19:34:32,450 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:34:32,450 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:34:32,450 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:34:32,450 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:34:32,450 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:34:32,450 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:34:32,450 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:34:32,450 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:34:32,450 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:34:32,450 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:34:32,450 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:34:33,775 - __main__ - INFO - Запрос постов по группе scary_happy выполнен успешно!
+2026-02-25 19:34:33,853 - db_utils - INFO - Загружено 10 постов для группы scary_happy
+2026-02-25 19:34:33,854 - __main__ - INFO - 10 постов для группы scary_happy успешно загружено!
+2026-02-25 19:35:15,769 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:15,769 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:15,770 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:15,770 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:15,770 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:15,770 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:15,771 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:15,771 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:15,771 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:15,771 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:15,771 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:35:15,967 - __main__ - INFO - Запрос постов по группе satsurikunotenshi335 выполнен успешно!
+2026-02-25 19:35:16,035 - db_utils - INFO - Загружено 10 постов для группы satsurikunotenshi335
+2026-02-25 19:35:16,035 - __main__ - INFO - 10 постов для группы satsurikunotenshi335 успешно загружено!
+2026-02-25 19:35:31,879 - __main__ - INFO - Пропускаю закреп...
+2026-02-25 19:35:31,879 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:31,879 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:31,879 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:31,879 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:31,879 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:31,879 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:31,879 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:31,879 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:31,879 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:31,879 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:31,880 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:35:32,060 - __main__ - INFO - Запрос постов по группе rabendati выполнен успешно!
+2026-02-25 19:35:32,135 - db_utils - INFO - Загружено 10 постов для группы rabendati
+2026-02-25 19:35:32,135 - __main__ - INFO - 10 постов для группы rabendati успешно загружено!
+2026-02-25 19:35:56,099 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:56,100 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:56,100 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:56,100 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:56,101 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:56,101 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:56,101 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:56,101 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:56,101 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:56,101 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:35:56,101 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:35:56,286 - __main__ - INFO - Запрос постов по группе apitofanimearts выполнен успешно!
+2026-02-25 19:35:56,343 - db_utils - INFO - Загружено 10 постов для группы apitofanimearts
+2026-02-25 19:35:56,343 - __main__ - INFO - 10 постов для группы apitofanimearts успешно загружено!
+2026-02-25 19:36:02,045 - TeleBot - ERROR - Infinity polling: polling exited
+2026-02-25 19:36:02,045 - TeleBot - ERROR - Break infinity polling
+2026-02-25 19:40:36,190 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-02-25 19:40:36,192 - __main__ - INFO - База данных инициализирована!
+2026-02-25 19:40:44,558 - __main__ - INFO - Пропускаю закреп...
+2026-02-25 19:40:44,558 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:44,558 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:44,558 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:44,558 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:44,558 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:44,558 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:44,558 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:44,558 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:44,559 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:44,559 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:44,559 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:40:47,767 - __main__ - INFO - Запрос постов по группе rabendati выполнен успешно!
+2026-02-25 19:40:47,833 - db_utils - INFO - Загружено 10 постов для группы rabendati
+2026-02-25 19:40:47,833 - __main__ - INFO - 10 постов для группы rabendati успешно загружено!
+2026-02-25 19:40:52,890 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:52,890 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:52,890 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:52,890 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:52,890 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:52,890 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:52,890 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:52,890 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:52,890 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:52,890 - __main__ - INFO - Сбор данных успешен!
+2026-02-25 19:40:52,890 - __main__ - INFO - 10 постов найдено!
+2026-02-25 19:40:53,168 - __main__ - INFO - Запрос постов по группе apitofanimearts выполнен успешно!
+2026-02-25 19:40:53,225 - db_utils - INFO - Загружено 10 постов для группы apitofanimearts
+2026-02-25 19:40:53,225 - __main__ - INFO - 10 постов для группы apitofanimearts успешно загружено!
+2026-02-25 19:41:02,086 - TeleBot - ERROR - Infinity polling: polling exited
+2026-02-25 19:41:02,087 - TeleBot - ERROR - Break infinity polling
+2026-02-26 18:16:04,114 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-02-26 18:16:04,126 - __main__ - INFO - База данных инициализирована!
+2026-02-26 18:16:17,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:17,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:17,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:17,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:17,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:17,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:17,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:17,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:17,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:17,854 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:17,855 - __main__ - INFO - 10 постов найдено!
+2026-02-26 18:16:19,260 - __main__ - INFO - Запрос постов по группе apitofanimearts выполнен успешно!
+2026-02-26 18:16:19,327 - db_utils - INFO - Загружено 10 постов для группы apitofanimearts
+2026-02-26 18:16:19,327 - __main__ - INFO - 10 постов для группы apitofanimearts успешно загружено!
+2026-02-26 18:16:27,193 - __main__ - INFO - Пропускаю закреп...
+2026-02-26 18:16:27,193 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:27,193 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:27,194 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:27,194 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:27,194 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:27,194 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:27,194 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:27,194 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:27,194 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:27,194 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:27,194 - __main__ - INFO - 10 постов найдено!
+2026-02-26 18:16:28,459 - __main__ - INFO - Запрос постов по группе rabendati выполнен успешно!
+2026-02-26 18:16:28,535 - db_utils - INFO - Загружено 10 постов для группы rabendati
+2026-02-26 18:16:28,535 - __main__ - INFO - 10 постов для группы rabendati успешно загружено!
+2026-02-26 18:16:47,626 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:47,626 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:47,626 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:47,627 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:47,627 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:47,627 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:47,627 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:47,627 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:47,627 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:47,627 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:16:47,627 - __main__ - INFO - 10 постов найдено!
+2026-02-26 18:16:47,786 - __main__ - INFO - Запрос постов по группе satsurikunotenshi335 выполнен успешно!
+2026-02-26 18:16:47,861 - db_utils - INFO - Загружено 10 постов для группы satsurikunotenshi335
+2026-02-26 18:16:47,861 - __main__ - INFO - 10 постов для группы satsurikunotenshi335 успешно загружено!
+2026-02-26 18:17:00,159 - __main__ - INFO - Пропускаю закреп...
+2026-02-26 18:17:00,160 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:00,160 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:00,160 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:00,161 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:00,161 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:00,161 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:00,161 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:00,161 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:00,162 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:00,162 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:00,162 - __main__ - INFO - 10 постов найдено!
+2026-02-26 18:17:00,359 - __main__ - INFO - Запрос постов по группе scary_happy выполнен успешно!
+2026-02-26 18:17:00,431 - db_utils - INFO - Загружено 10 постов для группы scary_happy
+2026-02-26 18:17:00,432 - __main__ - INFO - 10 постов для группы scary_happy успешно загружено!
+2026-02-26 18:17:12,157 - __main__ - INFO - Пропускаю закреп...
+2026-02-26 18:17:12,157 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:12,157 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:12,157 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:12,157 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:12,158 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:12,158 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:12,158 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:12,158 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:12,158 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:12,158 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:12,158 - __main__ - INFO - 10 постов найдено!
+2026-02-26 18:17:12,293 - __main__ - INFO - Запрос постов по группе baza_xi_tochka выполнен успешно!
+2026-02-26 18:17:12,373 - db_utils - INFO - Загружено 10 постов для группы baza_xi_tochka
+2026-02-26 18:17:12,373 - __main__ - INFO - 10 постов для группы baza_xi_tochka успешно загружено!
+2026-02-26 18:17:24,377 - __main__ - INFO - Пропускаю закреп...
+2026-02-26 18:17:24,377 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:24,377 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:24,378 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:24,378 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:24,378 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:24,378 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:24,378 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:24,379 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:24,379 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:24,379 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:24,379 - __main__ - INFO - 10 постов найдено!
+2026-02-26 18:17:24,611 - __main__ - INFO - Запрос постов по группе threetwooneletsjam выполнен успешно!
+2026-02-26 18:17:24,690 - db_utils - INFO - Загружено 10 постов для группы threetwooneletsjam
+2026-02-26 18:17:24,690 - __main__ - INFO - 10 постов для группы threetwooneletsjam успешно загружено!
+2026-02-26 18:17:39,273 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:39,273 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:39,274 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:39,274 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:39,274 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:39,274 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:39,274 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:39,274 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:39,274 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:39,274 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:17:39,274 - __main__ - INFO - 10 постов найдено!
+2026-02-26 18:17:39,411 - __main__ - INFO - Запрос постов по группе uanimetyan выполнен успешно!
+2026-02-26 18:17:39,483 - db_utils - INFO - Загружено 10 постов для группы uanimetyan
+2026-02-26 18:17:39,483 - __main__ - INFO - 10 постов для группы uanimetyan успешно загружено!
+2026-02-26 18:19:01,132 - TeleBot - ERROR - Infinity polling: polling exited
+2026-02-26 18:19:01,133 - TeleBot - ERROR - Break infinity polling
+2026-02-26 18:40:16,898 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-02-26 18:40:16,900 - __main__ - INFO - База данных инициализирована!
+2026-02-26 18:40:43,338 - __main__ - INFO - Пропускаю закреп...
+2026-02-26 18:40:43,339 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:40:43,339 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:40:43,339 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:40:43,340 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:40:43,340 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:40:43,340 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:40:43,340 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:40:43,341 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:40:43,341 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:40:43,341 - __main__ - INFO - Сбор данных успешен!
+2026-02-26 18:40:43,341 - __main__ - INFO - 10 постов найдено!
+2026-02-26 18:40:43,434 - TeleBot - ERROR - Infinity polling exception: name 'post' is not defined
+2026-02-26 18:40:43,436 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 logger_level=logger_level, allowed_updates=allowed_updates, restart_on_change=False,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 *args, **kwargs)
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                            logger_level=logger_level, allowed_updates=allowed_updates)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 97, in run
+    task(*args, **kwargs)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 10379, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\Develop\Bot_Dev.py", line 167, in simple_stats
+    f"{i} - Статистика по посту за {post["date"]}: "
+                                    ^^^^
+NameError: name 'post' is not defined
+
+2026-02-26 18:41:05,784 - TeleBot - ERROR - Infinity polling: polling exited
+2026-02-26 18:41:05,785 - TeleBot - ERROR - Break infinity polling
+2026-03-02 18:32:54,777 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-02 18:32:54,804 - __main__ - INFO - База данных инициализирована!
+2026-03-02 18:33:37,928 - TeleBot - ERROR - Infinity polling exception: list index out of range
+2026-03-02 18:33:37,929 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 logger_level=logger_level, allowed_updates=allowed_updates, restart_on_change=False,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 *args, **kwargs)
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                            logger_level=logger_level, allowed_updates=allowed_updates)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 97, in run
+    task(*args, **kwargs)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 10379, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\Develop\Bot_Dev.py", line 330, in list_group
+    category = get_command_args(message)[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+2026-03-02 18:33:53,523 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-02 18:33:53,523 - TeleBot - ERROR - Break infinity polling
+2026-03-02 18:49:54,234 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-02 18:49:54,237 - __main__ - INFO - База данных инициализирована!
+2026-03-02 18:50:21,829 - TeleBot - ERROR - Infinity polling exception: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+2026-03-02 18:50:21,834 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\util\retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 logger_level=logger_level, allowed_updates=allowed_updates, restart_on_change=False,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 *args, **kwargs)
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                            logger_level=logger_level, allowed_updates=allowed_updates)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1234, in __threaded_polling
+    polling_thread.raise_exceptions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 115, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 97, in run
+    task(*args, **kwargs)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 688, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+                               allowed_updates=allowed_updates,
+                               timeout=timeout, long_polling_timeout=long_polling_timeout)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 660, in get_updates
+    json_updates = apihelper.get_updates(
+        self.token, offset=offset, limit=limit, timeout=timeout, allowed_updates=allowed_updates,
+        long_polling_timeout=long_polling_timeout)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    result = _get_req_session().request(
+        method, request_url, params=params, files=files,
+        timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+2026-03-02 18:50:29,376 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-02 18:50:29,376 - TeleBot - ERROR - Break infinity polling
+2026-03-02 19:00:00,244 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-02 19:00:00,248 - __main__ - INFO - База данных инициализирована!
+2026-03-02 19:00:09,257 - __main__ - INFO - Запрос без категории выполнен успешно!
+2026-03-02 19:02:37,622 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-02 19:02:37,622 - TeleBot - ERROR - Break infinity polling
+2026-03-02 19:02:58,666 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-02 19:02:58,671 - __main__ - INFO - База данных инициализирована!
+2026-03-02 19:04:38,299 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-02 19:04:38,299 - TeleBot - ERROR - Break infinity polling
+2026-03-02 20:14:54,471 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-02 20:14:54,492 - __main__ - INFO - База данных инициализирована!
+2026-03-02 20:17:18,174 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-02 20:17:18,174 - TeleBot - ERROR - Break infinity polling
+2026-03-02 20:17:21,667 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-02 20:17:21,670 - __main__ - INFO - База данных инициализирована!
+2026-03-02 20:17:54,897 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-02 20:17:54,898 - TeleBot - ERROR - Break infinity polling
+2026-03-02 20:28:19,055 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-02 20:28:19,058 - __main__ - INFO - База данных инициализирована!
+2026-03-02 20:28:28,430 - __main__ - INFO - Запрос информации по группе baza_xi_tochka выполнен успешно!
+2026-03-02 20:28:29,840 - __main__ - INFO - Запрос информации по группе baza_xi_tochka выполнен успешно!
+2026-03-02 20:29:32,472 - TeleBot - ERROR - Infinity polling exception: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+2026-03-02 20:29:32,480 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\AppData\Local\Programs\Python\Python314\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\util\retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 logger_level=logger_level, allowed_updates=allowed_updates, restart_on_change=False,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 *args, **kwargs)
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                            logger_level=logger_level, allowed_updates=allowed_updates)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 1234, in __threaded_polling
+    polling_thread.raise_exceptions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 115, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\util.py", line 97, in run
+    task(*args, **kwargs)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 688, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+                               allowed_updates=allowed_updates,
+                               timeout=timeout, long_polling_timeout=long_polling_timeout)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\__init__.py", line 660, in get_updates
+    json_updates = apihelper.get_updates(
+        self.token, offset=offset, limit=limit, timeout=timeout, allowed_updates=allowed_updates,
+        long_polling_timeout=long_polling_timeout)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    result = _get_req_session().request(
+        method, request_url, params=params, files=files,
+        timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\T480\Downloads\MyPythonProjects\Pet_Project_VK\.venv\Lib\site-packages\requests\adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+2026-03-02 20:32:52,242 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-02 20:32:52,243 - TeleBot - ERROR - Break infinity polling
+2026-03-02 20:35:50,916 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-02 20:35:50,919 - __main__ - INFO - База данных инициализирована!
+2026-03-02 20:36:09,621 - __main__ - INFO - Запрос информации по группе baza_xi_tochka выполнен успешно!
+2026-03-02 20:36:10,017 - __main__ - INFO - Запрос информации по группе baza_xi_tochka выполнен успешно!
+2026-03-02 20:39:03,501 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-02 20:39:03,501 - TeleBot - ERROR - Break infinity polling
+2026-03-02 20:39:06,574 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-02 20:39:06,576 - __main__ - INFO - База данных инициализирована!
+2026-03-02 20:39:19,195 - __main__ - INFO - Запрос информации по группе baza_xi_tochka выполнен успешно!
+2026-03-02 20:39:54,258 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:39:54,259 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:39:54,259 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:39:54,259 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:39:54,259 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:39:54,259 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:39:54,259 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:39:54,259 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:39:54,259 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:39:54,259 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:39:54,259 - __main__ - INFO - 10 постов найдено!
+2026-03-02 20:39:54,851 - __main__ - INFO - Запрос постов по группе uanimetyan выполнен успешно!
+2026-03-02 20:39:54,900 - db_utils - INFO - Загружено 10 постов для группы uanimetyan
+2026-03-02 20:39:54,900 - __main__ - INFO - 10 постов для группы uanimetyan успешно загружено!
+2026-03-02 20:40:29,801 - __main__ - INFO - Пропускаю закреп...
+2026-03-02 20:40:29,801 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:29,801 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:29,801 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:29,802 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:29,802 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:29,802 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:29,802 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:29,802 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:29,802 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:29,802 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:29,802 - __main__ - INFO - 10 постов найдено!
+2026-03-02 20:40:29,960 - __main__ - INFO - Запрос постов по группе threetwooneletsjam выполнен успешно!
+2026-03-02 20:40:29,986 - db_utils - INFO - Загружено 10 постов для группы threetwooneletsjam
+2026-03-02 20:40:29,986 - __main__ - INFO - 10 постов для группы threetwooneletsjam успешно загружено!
+2026-03-02 20:40:44,959 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:44,960 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:44,960 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:44,960 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:44,960 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:44,960 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:44,961 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:44,961 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:44,961 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:44,961 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:44,961 - __main__ - INFO - 10 постов найдено!
+2026-03-02 20:40:45,194 - __main__ - INFO - Запрос постов по группе scary_happy выполнен успешно!
+2026-03-02 20:40:45,228 - db_utils - INFO - Загружено 10 постов для группы scary_happy
+2026-03-02 20:40:45,228 - __main__ - INFO - 10 постов для группы scary_happy успешно загружено!
+2026-03-02 20:40:59,300 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:59,300 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:59,300 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:59,300 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:59,300 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:59,300 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:59,300 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:59,301 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:59,301 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:59,301 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:40:59,301 - __main__ - INFO - 10 постов найдено!
+2026-03-02 20:40:59,837 - __main__ - INFO - Запрос постов по группе satsurikunotenshi335 выполнен успешно!
+2026-03-02 20:40:59,886 - db_utils - INFO - Загружено 10 постов для группы satsurikunotenshi335
+2026-03-02 20:40:59,887 - __main__ - INFO - 10 постов для группы satsurikunotenshi335 успешно загружено!
+2026-03-02 20:41:12,920 - __main__ - INFO - Пропускаю закреп...
+2026-03-02 20:41:12,921 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:12,921 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:12,921 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:12,921 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:12,921 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:12,922 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:12,922 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:12,922 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:12,922 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:12,922 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:12,922 - __main__ - INFO - 10 постов найдено!
+2026-03-02 20:41:13,134 - __main__ - INFO - Запрос постов по группе rabendati выполнен успешно!
+2026-03-02 20:41:13,169 - db_utils - INFO - Загружено 10 постов для группы rabendati
+2026-03-02 20:41:13,169 - __main__ - INFO - 10 постов для группы rabendati успешно загружено!
+2026-03-02 20:41:33,591 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:33,591 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:33,591 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:33,592 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:33,592 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:33,592 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:33,592 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:33,593 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:33,593 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:33,593 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:33,593 - __main__ - INFO - 10 постов найдено!
+2026-03-02 20:41:33,785 - __main__ - INFO - Запрос постов по группе apitofanimearts выполнен успешно!
+2026-03-02 20:41:33,819 - db_utils - INFO - Загружено 10 постов для группы apitofanimearts
+2026-03-02 20:41:33,819 - __main__ - INFO - 10 постов для группы apitofanimearts успешно загружено!
+2026-03-02 20:41:58,165 - __main__ - INFO - Пропускаю закреп...
+2026-03-02 20:41:58,165 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:58,165 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:58,166 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:58,166 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:58,166 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:58,166 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:58,166 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:58,166 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:58,167 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:58,167 - __main__ - INFO - Сбор данных успешен!
+2026-03-02 20:41:58,167 - __main__ - INFO - 10 постов найдено!
+2026-03-02 20:41:58,329 - __main__ - INFO - Запрос постов по группе baza_xi_tochka выполнен успешно!
+2026-03-02 20:41:58,361 - db_utils - INFO - Загружено 10 постов для группы baza_xi_tochka
+2026-03-02 20:41:58,361 - __main__ - INFO - 10 постов для группы baza_xi_tochka успешно загружено!
+2026-03-02 20:42:21,038 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-02 20:42:21,039 - TeleBot - ERROR - Break infinity polling
+2026-03-10 14:22:54,112 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-10 14:22:54,132 - __main__ - INFO - База данных инициализирована!
+2026-03-10 14:23:10,421 - __main__ - INFO - Запрос без категории выполнен успешно!
+2026-03-10 14:23:24,609 - __main__ - INFO - Запрос информации по группе uanimetyan выполнен успешно!
+2026-03-10 14:23:36,789 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:36,789 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:36,789 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:36,790 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:36,790 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:36,790 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:36,790 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:36,790 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:36,790 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:36,791 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:36,791 - __main__ - INFO - 10 постов найдено!
+2026-03-10 14:23:37,471 - __main__ - INFO - Запрос постов по группе uanimetyan выполнен успешно!
+2026-03-10 14:23:37,494 - db_utils - INFO - Загружено 10 постов для группы uanimetyan
+2026-03-10 14:23:37,494 - __main__ - INFO - 10 постов для группы uanimetyan успешно загружено!
+2026-03-10 14:23:51,212 - __main__ - INFO - Пропускаю закреп...
+2026-03-10 14:23:51,212 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:51,212 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:51,212 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:51,212 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:51,212 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:51,212 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:51,213 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:51,213 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:51,213 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:51,213 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:23:51,213 - __main__ - INFO - 10 постов найдено!
+2026-03-10 14:23:51,377 - __main__ - INFO - Запрос постов по группе threetwooneletsjam выполнен успешно!
+2026-03-10 14:23:51,410 - db_utils - INFO - Загружено 10 постов для группы threetwooneletsjam
+2026-03-10 14:23:51,411 - __main__ - INFO - 10 постов для группы threetwooneletsjam успешно загружено!
+2026-03-10 14:24:01,768 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:01,768 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:01,768 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:01,769 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:01,769 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:01,769 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:01,769 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:01,769 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:01,769 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:01,769 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:01,770 - __main__ - INFO - 10 постов найдено!
+2026-03-10 14:24:02,831 - __main__ - INFO - Запрос постов по группе scary_happy выполнен успешно!
+2026-03-10 14:24:02,859 - db_utils - INFO - Загружено 10 постов для группы scary_happy
+2026-03-10 14:24:02,859 - __main__ - INFO - 10 постов для группы scary_happy успешно загружено!
+2026-03-10 14:24:16,685 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:16,685 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:16,685 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:16,685 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:16,685 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:16,685 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:16,686 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:16,686 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:16,686 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:16,686 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:16,686 - __main__ - INFO - 10 постов найдено!
+2026-03-10 14:24:17,333 - __main__ - INFO - Запрос постов по группе satsurikunotenshi335 выполнен успешно!
+2026-03-10 14:24:17,360 - db_utils - INFO - Загружено 10 постов для группы satsurikunotenshi335
+2026-03-10 14:24:17,361 - __main__ - INFO - 10 постов для группы satsurikunotenshi335 успешно загружено!
+2026-03-10 14:24:30,802 - __main__ - INFO - Пропускаю закреп...
+2026-03-10 14:24:30,802 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:30,802 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:30,802 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:30,802 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:30,803 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:30,803 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:30,803 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:30,803 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:30,803 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:30,803 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:30,803 - __main__ - INFO - 10 постов найдено!
+2026-03-10 14:24:30,932 - __main__ - INFO - Запрос постов по группе rabendati выполнен успешно!
+2026-03-10 14:24:30,963 - db_utils - INFO - Загружено 10 постов для группы rabendati
+2026-03-10 14:24:30,964 - __main__ - INFO - 10 постов для группы rabendati успешно загружено!
+2026-03-10 14:24:42,956 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:42,956 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:42,956 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:42,957 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:42,957 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:42,957 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:42,957 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:42,957 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:42,957 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:42,957 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:42,958 - __main__ - INFO - 10 постов найдено!
+2026-03-10 14:24:43,678 - __main__ - INFO - Запрос постов по группе apitofanimearts выполнен успешно!
+2026-03-10 14:24:43,713 - db_utils - INFO - Загружено 10 постов для группы apitofanimearts
+2026-03-10 14:24:43,713 - __main__ - INFO - 10 постов для группы apitofanimearts успешно загружено!
+2026-03-10 14:24:53,043 - __main__ - INFO - Пропускаю закреп...
+2026-03-10 14:24:53,044 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:53,044 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:53,044 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:53,044 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:53,044 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:53,044 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:53,044 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:53,044 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:53,044 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:53,044 - __main__ - INFO - Сбор данных успешен!
+2026-03-10 14:24:53,044 - __main__ - INFO - 10 постов найдено!
+2026-03-10 14:24:53,735 - __main__ - INFO - Запрос постов по группе baza_xi_tochka выполнен успешно!
+2026-03-10 14:24:53,761 - db_utils - INFO - Загружено 10 постов для группы baza_xi_tochka
+2026-03-10 14:24:53,761 - __main__ - INFO - 10 постов для группы baza_xi_tochka успешно загружено!
+2026-03-10 14:25:02,965 - __main__ - WARNING - Запрос с некорректным именем группы
+2026-03-10 14:25:15,475 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-10 14:25:15,475 - TeleBot - ERROR - Break infinity polling
+2026-03-12 17:29:28,478 - __main__ - ERROR - Ошибка API: [1116] Anonymous token is invalid
+Traceback (most recent call last):
+  File "D:\Хлам\Работа\Пет Проекты\VK-STATS-TG-BOT\Develop\Bot_Dev.py", line 103, in main
+    response = vk.users.get()
+  File "C:\Users\HighPC\AppData\Local\Programs\Python\Python314\Lib\site-packages\vk_api\vk_api.py", line 1043, in __call__
+    return self._vk.method(self._method, kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HighPC\AppData\Local\Programs\Python\Python314\Lib\site-packages\vk_api\vk_api.py", line 934, in method
+    raise error
+vk_api.exceptions.ApiError: [1116] Anonymous token is invalid
+2026-03-12 17:30:42,268 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-12 17:30:42,268 - TeleBot - ERROR - Break infinity polling
+2026-03-12 17:40:12,077 - __main__ - ERROR - Ошибка API: [1116] Anonymous token is invalid
+Traceback (most recent call last):
+  File "D:\Хлам\Работа\Пет Проекты\VK-STATS-TG-BOT\Develop\Bot_Dev.py", line 103, in main
+    response = vk.users.get()
+  File "C:\Users\HighPC\AppData\Local\Programs\Python\Python314\Lib\site-packages\vk_api\vk_api.py", line 1043, in __call__
+    return self._vk.method(self._method, kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HighPC\AppData\Local\Programs\Python\Python314\Lib\site-packages\vk_api\vk_api.py", line 934, in method
+    raise error
+vk_api.exceptions.ApiError: [1116] Anonymous token is invalid
+2026-03-12 17:40:31,506 - __main__ - INFO - Запрос с категорией выполнен успешно!
+2026-03-12 17:40:46,456 - __main__ - INFO - Запрос без категории выполнен успешно!
+2026-03-12 17:42:30,298 - __main__ - WARNING - Запрос с некорректным именем группы
+2026-03-12 17:42:36,977 - __main__ - WARNING - Запрос с некорректным именем группы
+2026-03-12 17:42:52,409 - vk_fetcher - ERROR - Ошибка API: [1116] Anonymous token is invalid
+Traceback (most recent call last):
+  File "D:\Хлам\Работа\Пет Проекты\VK-STATS-TG-BOT\Develop\vk_fetcher.py", line 24, in get_stat
+    response = local_vk.wall.get(domain=domain, count=get_count, filter="all")
+  File "C:\Users\HighPC\AppData\Local\Programs\Python\Python314\Lib\site-packages\vk_api\vk_api.py", line 1043, in __call__
+    return self._vk.method(self._method, kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HighPC\AppData\Local\Programs\Python\Python314\Lib\site-packages\vk_api\vk_api.py", line 934, in method
+    raise error
+vk_api.exceptions.ApiError: [1116] Anonymous token is invalid
+2026-03-12 17:42:52,851 - __main__ - WARNING - Не удалось выполнить запрос постов для группы uanimetyan
+2026-03-12 17:45:48,298 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-12 17:45:48,298 - TeleBot - ERROR - Break infinity polling
+2026-03-12 17:45:51,360 - __main__ - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-12 17:45:51,366 - __main__ - INFO - База данных инициализирована!
+2026-03-12 17:46:10,870 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:46:10,870 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:46:10,870 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:46:10,870 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:46:10,870 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:46:10,870 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:46:10,870 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:46:10,870 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:46:10,870 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:46:10,871 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:46:10,871 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-12 17:46:10,886 - db_utils - INFO - Загружено 10 постов для группы uanimetyan
+2026-03-12 17:46:10,886 - vk_fetcher - INFO - 10 постов для группы uanimetyan успешно загружено!
+2026-03-12 17:46:11,596 - __main__ - INFO - Запрос постов по группе uanimetyan выполнен успешно!
+2026-03-12 17:48:49,255 - __main__ - WARNING - Запрос с некорректным именем группы
+2026-03-12 17:49:02,933 - vk_fetcher - INFO - Пропускаю закреп...
+2026-03-12 17:49:02,934 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:02,934 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:02,934 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:02,934 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:02,934 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:02,934 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:02,935 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:02,935 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:02,935 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:02,935 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:02,935 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-12 17:49:02,940 - db_utils - INFO - Загружено 10 постов для группы threetwooneletsjam
+2026-03-12 17:49:02,940 - vk_fetcher - INFO - 10 постов для группы threetwooneletsjam успешно загружено!
+2026-03-12 17:49:04,092 - __main__ - INFO - Запрос постов по группе threetwooneletsjam выполнен успешно!
+2026-03-12 17:49:27,850 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:27,851 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:27,851 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:27,851 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:27,851 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:27,851 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:27,851 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:27,852 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:27,852 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:27,852 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:27,852 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-12 17:49:27,872 - db_utils - INFO - Загружено 10 постов для группы scary_happy
+2026-03-12 17:49:27,872 - vk_fetcher - INFO - 10 постов для группы scary_happy успешно загружено!
+2026-03-12 17:49:31,390 - __main__ - INFO - Запрос постов по группе scary_happy выполнен успешно!
+2026-03-12 17:49:41,320 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:41,320 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:41,321 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:41,321 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:41,321 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:41,321 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:41,321 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:41,321 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:41,321 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:41,321 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:41,321 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-12 17:49:41,327 - db_utils - INFO - Загружено 10 постов для группы satsurikunotenshi335
+2026-03-12 17:49:41,328 - vk_fetcher - INFO - 10 постов для группы satsurikunotenshi335 успешно загружено!
+2026-03-12 17:49:42,619 - __main__ - INFO - Запрос постов по группе satsurikunotenshi335 выполнен успешно!
+2026-03-12 17:49:49,002 - vk_fetcher - INFO - Пропускаю закреп...
+2026-03-12 17:49:49,002 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:49,003 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:49,003 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:49,003 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:49,003 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:49,003 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:49,003 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:49,003 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:49,004 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:49,004 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:49:49,004 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-12 17:49:49,036 - db_utils - INFO - Загружено 10 постов для группы rabendati
+2026-03-12 17:49:49,036 - vk_fetcher - INFO - 10 постов для группы rabendati успешно загружено!
+2026-03-12 17:49:49,170 - __main__ - INFO - Запрос постов по группе rabendati выполнен успешно!
+2026-03-12 17:50:10,182 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:10,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:10,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:10,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:10,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:10,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:10,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:10,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:10,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:10,184 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:10,184 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-12 17:50:10,191 - db_utils - INFO - Загружено 10 постов для группы apitofanimearts
+2026-03-12 17:50:10,191 - vk_fetcher - INFO - 10 постов для группы apitofanimearts успешно загружено!
+2026-03-12 17:50:10,333 - __main__ - INFO - Запрос постов по группе apitofanimearts выполнен успешно!
+2026-03-12 17:50:23,555 - vk_fetcher - INFO - Пропускаю закреп...
+2026-03-12 17:50:23,555 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:23,555 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:23,555 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:23,555 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:23,555 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:23,555 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:23,555 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:23,555 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:23,555 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:23,555 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-12 17:50:23,556 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-12 17:50:23,575 - db_utils - INFO - Загружено 10 постов для группы baza_xi_tochka
+2026-03-12 17:50:23,575 - vk_fetcher - INFO - 10 постов для группы baza_xi_tochka успешно загружено!
+2026-03-12 17:50:23,705 - __main__ - INFO - Запрос постов по группе baza_xi_tochka выполнен успешно!
+2026-03-12 17:50:33,680 - TeleBot - ERROR - Infinity polling: polling exited
+2026-03-12 17:50:33,680 - TeleBot - ERROR - Break infinity polling
+2026-03-13 16:57:18,079 - Scheduler - INFO - Планировщик запущен в фоновом режиме...
+2026-03-13 16:57:18,080 - __main__ - INFO - Бот и Планировщик запущены в фоновом режиме
+2026-03-13 16:57:18,924 - Bot_Dev - INFO - Успешное подключение к вк! Здравствуйте, Powerr (ID: 506435482)
+2026-03-13 16:57:18,934 - Bot_Dev - INFO - База данных инициализирована!
+2026-03-13 16:57:20,267 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:20,267 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:20,267 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:20,267 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:20,267 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:20,267 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:20,267 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:20,267 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:20,267 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:20,267 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:20,268 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 16:57:20,272 - db_utils - INFO - Загружено 10 постов для группы apitofanimearts
+2026-03-13 16:57:20,272 - vk_fetcher - INFO - 10 постов для группы apitofanimearts успешно загружено!
+2026-03-13 16:57:20,289 - db_utils - INFO - Загружено 10 постов для группы apitofanimearts
+2026-03-13 16:57:22,306 - vk_fetcher - INFO - Пропускаю закреп...
+2026-03-13 16:57:22,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:22,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:22,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:22,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:22,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:22,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:22,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:22,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:22,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:22,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:22,307 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 16:57:22,317 - db_utils - INFO - Загружено 10 постов для группы baza_xi_tochka
+2026-03-13 16:57:22,317 - vk_fetcher - INFO - 10 постов для группы baza_xi_tochka успешно загружено!
+2026-03-13 16:57:22,328 - db_utils - INFO - Загружено 10 постов для группы baza_xi_tochka
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - Пропускаю закреп...
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:24,183 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 16:57:24,195 - db_utils - INFO - Загружено 10 постов для группы rabendati
+2026-03-13 16:57:24,196 - vk_fetcher - INFO - 10 постов для группы rabendati успешно загружено!
+2026-03-13 16:57:24,206 - db_utils - INFO - Загружено 10 постов для группы rabendati
+2026-03-13 16:57:26,076 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:26,076 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:26,076 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:26,076 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:26,077 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:26,077 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:26,077 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:26,077 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:26,077 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:26,077 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:26,077 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 16:57:26,097 - db_utils - INFO - Загружено 10 постов для группы satsurikunotenshi335
+2026-03-13 16:57:26,097 - vk_fetcher - INFO - 10 постов для группы satsurikunotenshi335 успешно загружено!
+2026-03-13 16:57:26,115 - db_utils - INFO - Загружено 10 постов для группы satsurikunotenshi335
+2026-03-13 16:57:28,044 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:28,044 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:28,044 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:28,044 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:28,044 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:28,044 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:28,044 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:28,045 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:28,045 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:28,045 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:28,045 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 16:57:28,065 - db_utils - INFO - Загружено 10 постов для группы scary_happy
+2026-03-13 16:57:28,065 - vk_fetcher - INFO - 10 постов для группы scary_happy успешно загружено!
+2026-03-13 16:57:28,079 - db_utils - INFO - Загружено 10 постов для группы scary_happy
+2026-03-13 16:57:29,431 - vk_fetcher - INFO - Пропускаю закреп...
+2026-03-13 16:57:29,432 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:29,432 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:29,432 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:29,432 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:29,432 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:29,432 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:29,432 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:29,433 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:29,433 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:29,433 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:29,433 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 16:57:29,453 - db_utils - INFO - Загружено 10 постов для группы threetwooneletsjam
+2026-03-13 16:57:29,453 - vk_fetcher - INFO - 10 постов для группы threetwooneletsjam успешно загружено!
+2026-03-13 16:57:29,473 - db_utils - INFO - Загружено 10 постов для группы threetwooneletsjam
+2026-03-13 16:57:31,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:31,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:31,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:31,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:31,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:31,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:31,306 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:31,307 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:31,307 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:31,307 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 16:57:31,307 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 16:57:31,317 - db_utils - INFO - Загружено 10 постов для группы uanimetyan
+2026-03-13 16:57:31,317 - vk_fetcher - INFO - 10 постов для группы uanimetyan успешно загружено!
+2026-03-13 16:57:31,328 - db_utils - INFO - Загружено 10 постов для группы uanimetyan
+2026-03-13 16:57:31,328 - Scheduler - INFO - Сбор завершён, жду до следующего...
+2026-03-13 16:58:44,812 - Bot_Dev - INFO - Запрос без категории выполнен успешно!
+2026-03-13 16:58:51,784 - __main__ - INFO - Остановка приложения...
+2026-03-13 17:38:17,868 - __main__ - INFO - Запуск планировщика в фоновом потоке...
+2026-03-13 17:38:17,868 - Scheduler - INFO - Планировщик запущен в фоновом режиме...
+2026-03-13 17:38:17,868 - __main__ - WARNING - WEBHOOK_URL не найден в переменных окружения! Бот будет работать некорректно.
+2026-03-13 17:38:17,868 - __main__ - INFO - Запуск Webhook сервера на порту 5000...
+2026-03-13 17:38:18,788 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.108:5000
+2026-03-13 17:38:18,788 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-13 17:38:20,198 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:20,198 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:20,198 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:20,198 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:20,198 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:20,199 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:20,199 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:20,199 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:20,199 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:20,199 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:20,199 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 17:38:20,220 - db_utils - INFO - Загружено 10 постов для группы apitofanimearts
+2026-03-13 17:38:20,221 - vk_fetcher - INFO - 10 постов для группы apitofanimearts успешно загружено!
+2026-03-13 17:38:20,240 - db_utils - INFO - Загружено 10 постов для группы apitofanimearts
+2026-03-13 17:38:21,797 - vk_fetcher - INFO - Пропускаю закреп...
+2026-03-13 17:38:21,797 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:21,797 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:21,798 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:21,798 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:21,798 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:21,798 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:21,798 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:21,798 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:21,798 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:21,798 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:21,798 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 17:38:21,809 - db_utils - INFO - Загружено 10 постов для группы baza_xi_tochka
+2026-03-13 17:38:21,810 - vk_fetcher - INFO - 10 постов для группы baza_xi_tochka успешно загружено!
+2026-03-13 17:38:21,821 - db_utils - INFO - Загружено 10 постов для группы baza_xi_tochka
+2026-03-13 17:38:23,176 - vk_fetcher - INFO - Пропускаю закреп...
+2026-03-13 17:38:23,177 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:23,177 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:23,177 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:23,177 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:23,178 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:23,178 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:23,178 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:23,178 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:23,178 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:23,178 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:23,179 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 17:38:23,199 - db_utils - INFO - Загружено 10 постов для группы rabendati
+2026-03-13 17:38:23,199 - vk_fetcher - INFO - 10 постов для группы rabendati успешно загружено!
+2026-03-13 17:38:23,217 - db_utils - INFO - Загружено 10 постов для группы rabendati
+2026-03-13 17:38:24,966 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:24,966 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:24,966 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:24,966 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:24,967 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:24,967 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:24,967 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:24,967 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:24,967 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:24,967 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:24,967 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 17:38:24,985 - db_utils - INFO - Загружено 10 постов для группы satsurikunotenshi335
+2026-03-13 17:38:24,985 - vk_fetcher - INFO - 10 постов для группы satsurikunotenshi335 успешно загружено!
+2026-03-13 17:38:24,997 - db_utils - INFO - Загружено 10 постов для группы satsurikunotenshi335
+2026-03-13 17:38:26,766 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:26,767 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:26,767 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:26,767 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:26,767 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:26,767 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:26,767 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:26,767 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:26,767 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:26,768 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:26,768 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 17:38:26,786 - db_utils - INFO - Загружено 10 постов для группы scary_happy
+2026-03-13 17:38:26,787 - vk_fetcher - INFO - 10 постов для группы scary_happy успешно загружено!
+2026-03-13 17:38:26,805 - db_utils - INFO - Загружено 10 постов для группы scary_happy
+2026-03-13 17:38:28,138 - vk_fetcher - INFO - Пропускаю закреп...
+2026-03-13 17:38:28,138 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:28,138 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:28,139 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:28,139 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:28,139 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:28,139 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:28,139 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:28,139 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:28,140 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:28,140 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:28,140 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 17:38:28,160 - db_utils - INFO - Загружено 10 постов для группы threetwooneletsjam
+2026-03-13 17:38:28,160 - vk_fetcher - INFO - 10 постов для группы threetwooneletsjam успешно загружено!
+2026-03-13 17:38:28,173 - db_utils - INFO - Загружено 10 постов для группы threetwooneletsjam
+2026-03-13 17:38:30,220 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:30,220 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:30,220 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:30,220 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:30,220 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:30,220 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:30,221 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:30,221 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:30,221 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:30,221 - vk_fetcher - INFO - Сбор данных успешен!
+2026-03-13 17:38:30,221 - vk_fetcher - INFO - 10 постов найдено!
+2026-03-13 17:38:30,231 - db_utils - INFO - Загружено 10 постов для группы uanimetyan
+2026-03-13 17:38:30,231 - vk_fetcher - INFO - 10 постов для группы uanimetyan успешно загружено!
+2026-03-13 17:38:30,241 - db_utils - INFO - Загружено 10 постов для группы uanimetyan
+2026-03-13 17:38:30,241 - Scheduler - INFO - Сбор завершён, жду до следующего...
